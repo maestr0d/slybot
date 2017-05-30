@@ -61,4 +61,4 @@ bot.on('message', (message) =>{
 });
 */
 
-bot.login('MzE3MjQ5MTgzNjQ1OTU4MTQ2.DAhE2g.6YqCUwj8YS3Ekq-1gAvaROmmZVY');
+bot.login('tokenhere');
